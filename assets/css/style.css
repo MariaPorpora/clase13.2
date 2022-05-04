@@ -1,0 +1,40 @@
+.tarjeta {
+  background-color: #4e4ed7;
+  color: white;
+}
+
+.tarjeta .fa-display {
+  font-size: 60px;
+}
+
+.tarjeta button {
+  border: 5px, solid, white;
+  padding: 10px 30px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+}
+
+nav {
+  background-color: #4e4ed7;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  padding: 10px 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  background-color: #4e4ed7;
+  color: white;
+  padding: 20px;
+}
+/*# sourceMappingURL=style.css.map */

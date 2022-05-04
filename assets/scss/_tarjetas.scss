@@ -1,0 +1,16 @@
+
+.tarjeta{
+    background-color:$colorprimario ;
+    color: $colorblanco;
+    .fa-display{
+    font-size: 60px;
+    }
+    button {
+        border: 5px,solid, $colorblanco;
+        padding: 10px 30px;
+        border-radius: 8px;
+        background-color: rgba(255,255,255,0);
+        color: $colorblanco
+
+    }
+}
